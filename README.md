@@ -1,4 +1,7 @@
-### Hi There < img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611htphx2wb8tp0nwvbk4re2vj7sqzpwgvg6819xgk1&ep=v1_gifs_search&rid=giphy.gif&ct=g" "width=300px">
+
+![scaler-create-impact](https://github.com/l3tlotlo/l3tlotlo/assets/156685268/f80403a3-bf99-4bde-9ba4-65c4f67f66fd)
+![test-typing](https://github.com/l3tlotlo/l3tlotlo/assets/156685268/56e30324-af72-4fd4-8845-1f43a8b54ce5)
+![coding](https://github.com/l3tlotlo/l3tlotlo/assets/156685268/f82163da-2a44-4156-ba5a-75819d28346d)
 
 - 👋 Hi, I’m @l3tlotlo
 - 👀 I’m interested in Software and app development.
