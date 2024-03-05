@@ -1,4 +1,4 @@
-### Hi There < img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611htphx2wb8tp0nwvbk4re2vj7sqzpwgvg6819xgk1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=300px">
+### Hi There < img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611htphx2wb8tp0nwvbk4re2vj7sqzpwgvg6819xgk1&ep=v1_gifs_search&rid=giphy.gif&ct=g" "width=300px">
 
 - 👋 Hi, I’m @l3tlotlo
 - 👀 I’m interested in Software and app development.
